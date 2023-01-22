@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TextContent\TextContent.csproj" />
+    <ProjectReference Include="..\WriteTextToJsonFile\WriteTextToJsonFile.csproj" />
+    <ProjectReference Include="..\WriteTextToPDFFile\WriteTextToPDFFile.csproj" />
+    <ProjectReference Include="..\WriteTextToXMLFile\WriteTextToXMLFile.csproj" />
+    <ProjectReference Include="..\WritingTextToTxtFile\WritingTextToTxtFile.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Files\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WritingTextToTxtFile", "WritingTextToTxtFile\WritingTextToTxtFile.csproj", "{2D863B75-A968-4CD7-8417-714408E67021}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteTextToJsonFile", "WriteTextToJsonFile\WriteTextToJsonFile.csproj", "{5F975387-6E8B-4658-8058-C9414146A640}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteTextToPDFFile", "WriteTextToPDFFile\WriteTextToPDFFile.csproj", "{2C4E69FD-4CD7-4D15-808C-C5B9FD2F20D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextContent", "TextContent\TextContent.csproj", "{E3C4D71C-F6D6-44F8-82F3-BB18E74C25F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileWriter.UI", "FileWriter.UI\FileWriter.UI.csproj", "{E7AE2FD1-B06A-422E-9351-A3CC2522F16E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteTextToXMLFile", "WriteTextToXMLFile\WriteTextToXMLFile.csproj", "{D991DC8B-CEB7-43D0-9873-96ABE1FDECC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D863B75-A968-4CD7-8417-714408E67021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D863B75-A968-4CD7-8417-714408E67021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D863B75-A968-4CD7-8417-714408E67021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D863B75-A968-4CD7-8417-714408E67021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F975387-6E8B-4658-8058-C9414146A640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F975387-6E8B-4658-8058-C9414146A640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F975387-6E8B-4658-8058-C9414146A640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F975387-6E8B-4658-8058-C9414146A640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C4E69FD-4CD7-4D15-808C-C5B9FD2F20D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C4E69FD-4CD7-4D15-808C-C5B9FD2F20D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C4E69FD-4CD7-4D15-808C-C5B9FD2F20D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C4E69FD-4CD7-4D15-808C-C5B9FD2F20D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3C4D71C-F6D6-44F8-82F3-BB18E74C25F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3C4D71C-F6D6-44F8-82F3-BB18E74C25F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3C4D71C-F6D6-44F8-82F3-BB18E74C25F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3C4D71C-F6D6-44F8-82F3-BB18E74C25F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7AE2FD1-B06A-422E-9351-A3CC2522F16E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7AE2FD1-B06A-422E-9351-A3CC2522F16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7AE2FD1-B06A-422E-9351-A3CC2522F16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7AE2FD1-B06A-422E-9351-A3CC2522F16E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D991DC8B-CEB7-43D0-9873-96ABE1FDECC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D991DC8B-CEB7-43D0-9873-96ABE1FDECC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D991DC8B-CEB7-43D0-9873-96ABE1FDECC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D991DC8B-CEB7-43D0-9873-96ABE1FDECC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64D4130A-49B1-4D34-903D-B1CDADE7492B}
+	EndGlobalSection
+EndGlobal
