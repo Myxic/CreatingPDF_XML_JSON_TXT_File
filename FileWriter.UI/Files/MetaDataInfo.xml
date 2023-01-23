@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfObjectData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ObjectData>
+    <Name>DisplayUser</Name>
+    <Description>An interface for displaying list of users in the list.</Description>
+    <Input />
+    <Output />
+  </ObjectData>
+  <ObjectData>
+    <Name>Docs</Name>
+    <Description>Class that holds user data.</Description>
+    <Input />
+    <Output />
+  </ObjectData>
+  <ObjectData>
+    <Name>.ctor</Name>
+    <Description>This contructor sets the properties and the value entered in the parameter of the contructor</Description>
+    <Input>This constructor takens in user information [Id, Name, Address, Gender, Religion and returns</Input>
+    <Output>User information accordingly as a string.</Output>
+  </ObjectData>
+  <ObjectData>
+    <Name>ID</Name>
+    <Description>This is the id of user.</Description>
+    <Input />
+    <Output />
+  </ObjectData>
+  <ObjectData>
+    <Name>Name</Name>
+    <Description>This properties is the Name of user.</Description>
+    <Input />
+    <Output />
+  </ObjectData>
+  <ObjectData>
+    <Name>Address</Name>
+    <Description>This properties is the Address of user</Description>
+    <Input />
+    <Output />
+  </ObjectData>
+  <ObjectData>
+    <Name>Gender</Name>
+    <Description>This properties is the gender of user</Description>
+    <Input />
+    <Output />
+  </ObjectData>
+  <ObjectData>
+    <Name>Religion</Name>
+    <Description>This properties is the country where the user comes from</Description>
+    <Input />
+    <Output />
+  </ObjectData>
+  <ObjectData>
+    <Name>DisplayUser</Name>
+    <Description>This method adds the new user to the list and also display the user on the console.</Description>
+    <Input />
+    <Output />
+  </ObjectData>
+  <ObjectData>
+    <Name>MetaData</Name>
+    <Description>This class holds all the implementation of getting information about the metat data.</Description>
+    <Input />
+    <Output />
+  </ObjectData>
+  <ObjectData>
+    <Name>GetDocs</Name>
+    <Description>This method return the all the description and information in the assemblies illustrated by the default attribute.</Description>
+    <Input />
+    <Output />
+  </ObjectData>
+  <ObjectData>
+    <Name>.ctor</Name>
+    <Description>Attribute Constructor</Description>
+    <Input>It accepts three overloads. [description, input and output]</Input>
+    <Output>It returns the value of each properties.</Output>
+  </ObjectData>
+  <ObjectData>
+    <Name>Description</Name>
+    <Description>Attribute Description property.</Description>
+    <Input />
+    <Output />
+  </ObjectData>
+  <ObjectData>
+    <Name>Input</Name>
+    <Description>Attribute Input property</Description>
+    <Input />
+    <Output />
+  </ObjectData>
+  <ObjectData>
+    <Name>Output</Name>
+    <Description>Attribute output property.</Description>
+    <Input />
+    <Output />
+  </ObjectData>
+</ArrayOfObjectData>
